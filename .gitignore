@@ -1,1 +1,3 @@
 # Archivos temporales
+*.tmp
+*.log
