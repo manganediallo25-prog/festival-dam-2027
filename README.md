@@ -4,3 +4,4 @@ Web estática de un festival de música ficticio, creada como práctica de Git y
 
 Páginas: inicio, programa y entradas.
 Web publicada: https://manganediallo25-prog.github.io/festival-dam-2027/
+Estado: Versión 1.0 en revisión.
